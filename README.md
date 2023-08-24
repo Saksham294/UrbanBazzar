@@ -11,6 +11,10 @@ This is an ecommerce platform built for users by users. One of the key features 
 ## Demo Video
 
 
+https://github.com/Saksham294/UrbanBazzar/assets/86240862/168284a0-470f-4894-a43d-e9e106ecaba7
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
